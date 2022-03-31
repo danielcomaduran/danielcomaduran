@@ -33,7 +33,7 @@ Hey there, I am Daniel. Here are few things about me:
 </table>
 -->
 
-<table style="border-collapse: collapse; border: none;">
+<table style="border:0 none;">
     <tr style="border:0 none;" > 
         <td style="border:0 none;" valign="top" Align="right"> <b>2021</b></td>
         <td style="border:0 none;"> 
@@ -58,10 +58,9 @@ Hey there, I am Daniel. Here are few things about me:
     </tr>
 </table>
 
-<!--
 <br/>
 <h1 style="text-align: left">Let's connect!</h1>
-<table style="border-collapse: collapse; border: none;">
+<table style="border:0 none;">
     <tr style="border:0 none;" >
         <td style="border:0 none;" >      
             <a href="mailto:dcomadur@ucalgary.ca?subject=Let%27s%20connect!">
@@ -85,13 +84,15 @@ Hey there, I am Daniel. Here are few things about me:
         </td>
     </tr>
 </table>
--->
 
+<!--
 <br/>
 <h1 style="text-align: left">Let's connect!</h1>
-<a href="mailto:dcomadur@ucalgary.ca?subject=Let%27s%20connect!">
+<td>
+    <a href="mailto:dcomadur@ucalgary.ca?subject=Let%27s%20connect!">
     <img src="./Images/outlook.svg" height="32"/>
-</a>
+    </a>
+</td>
 <a href="https://www.linkedin.com/in/danielcomaduran/">
     <img src="./Images/linkedin.svg" height="32"/>
 </a>
@@ -104,3 +105,4 @@ Hey there, I am Daniel. Here are few things about me:
 <a href="https://www.instagram.com/danycomaduran/">
     <img src="./Images/instagram.svg" height="32"/>
 </a>
+-->
