@@ -33,13 +33,13 @@ Hey there, I am Daniel. Here are few things about me:
 </table>
 -->
 
-<table>
-    <tr> 
+<table style="border-collapse: collapse; border: none;">
+    <tr style="border:0 none;" > 
         <td style="border:0 none;" valign="top" Align="right"> <b>2021</b></td>
         <td style="border:0 none;"> <b>Doctorate of Phylosohpy</b> 
-            <p> Development and Validation of a Current-Based EEG System for Tangential Current Measurement”
+            <p> Development and Validation of a Current-Based EEG System for Tangential Current Measurement
             <p> University of Calgary</td>
-    </tr>
+    </tr style="border:0 none;" >
     <tr>
         <td style="border:0 none;" valign="top" Align="right"> <b>2014</b> </td>
         <td style="border:0 none;"> <b>Master of Science</b> 
@@ -47,7 +47,7 @@ Hey there, I am Daniel. Here are few things about me:
             <p> University of Calgary </td>
         <td> 
     </tr>
-    <tr>
+    <tr style="border:0 none;" >
         <td style="border:0 none;" valign="top" Align="right"> <b>2012</b> </td>
         <td style="border:0 none;"> Bachelor of Biomedical Engineering 
             <p> Instituto Tecnologico de Monterrey Campus Chihuahua</td>
@@ -56,21 +56,21 @@ Hey there, I am Daniel. Here are few things about me:
 
 <br/>
 <h1 style="text-align: left">Let's connect!</h1>
-<table>
-    <tr>
-        <td>
+<table style="border-collapse: collapse; border: none;">
+    <tr style="border:0 none;" >
+        <td style="border:0 none;" >
             <a href="mailto:dcomadur@ucalgary.ca?subject=Let%27s%20connect!">
             <img src="./Images/outlook.svg" height="32">
         </td>
-        <td>
+        <td style="border:0 none;" >
             <a href="https://www.linkedin.com/in/danielcomaduran/">
             <img src="./Images/linkedin.svg" height="32">
         </td>
-        <td>
+        <td style="border:0 none;" >
             <a href="https://wa.me/14034652952?text=Let%27s%20connect!">
             <img src="./Images/whatsapp.svg" height="32">
         </td>
-        <td>
+        <td style="border:0 none;" >
             <a href=https://www.instagram.com/danycomaduran/>
             <img src="./Images/instagram.svg" height="32">
         </td>
