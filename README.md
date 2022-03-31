@@ -58,6 +58,7 @@ Hey there, I am Daniel. Here are few things about me:
     </tr>
 </table>
 
+<!--
 <br/>
 <h1 style="text-align: left">Let's connect!</h1>
 <table style="border-collapse: collapse; border: none;">
@@ -71,6 +72,10 @@ Hey there, I am Daniel. Here are few things about me:
             <img src="./Images/linkedin.svg" height="32">
         </td>
         <td style="border:0 none;" >
+            <a href=https://twitter.com/DanielComaduran/>
+            <img src="./Images/twitter.svg" height="32">
+        </td>
+        <td style="border:0 none;" >
             <a href="https://wa.me/14034652952?text=Let%27s%20connect!">
             <img src="./Images/whatsapp.svg" height="32">
         </td>
@@ -80,3 +85,22 @@ Hey there, I am Daniel. Here are few things about me:
         </td>
     </tr>
 </table>
+-->
+
+<br/>
+<h1 style="text-align: left">Let's connect!</h1>
+<a href="mailto:dcomadur@ucalgary.ca?subject=Let%27s%20connect!">
+    <img src="./Images/outlook.svg" height="32"/>
+</a>
+<a href="https://www.linkedin.com/in/danielcomaduran/">
+    <img src="./Images/linkedin.svg" height="32"/>
+</a>
+<a href="https://twitter.com/DanielComaduran/">
+    <img src="./Images/twitter.svg" height="32"/>
+</a>
+<a href="https://wa.me/14034652952?text=Let%27s%20connect!">
+    <img src="./Images/whatsapp.svg" height="32"/>
+</a>
+<a href="https://www.instagram.com/danycomaduran/">
+    <img src="./Images/instagram.svg" height="32"/>
+</a>
