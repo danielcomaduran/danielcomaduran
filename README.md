@@ -4,9 +4,9 @@
 <h1 style="text-align: left;">About me</h1>
 
 Hey there, I am Daniel. Here are few things about me:
-- ⚙ I am a biomedical engineer focused on bioinstrumentation for EMG and EEG.
-- 💻 I am passionate about electronics, programming, signal processing, and machine learning.
-- 🏥 I co-founded [CIBAC](https://www.cibac.mx), a non-profit institution in Chihuahua, Mexico to bring low-cost health solutions for physical rehabilitation.
+- ⚙ Biomedical engineer focused on bioinstrumentation for EMG and EEG.
+- 💻 Passionate about electronics, programming, signal processing, and machine learning.
+- 🏥 Cofounder of [CIBAC](https://www.cibac.mx), a non-profit institution in Chihuahua, Mexico to bring low-cost health solutions for physical rehabilitation.
 - 🧠 I am currently a postdoc at the [BCI4Kids](https://cumming.ucalgary.ca/research/pediatric-bci/home) program at the Alberta's Children Hospital.
 - 🎸 I love to play guitar, bass, and piano.
 
