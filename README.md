@@ -15,7 +15,7 @@ Hey there, I am Daniel. Here are few things about me:
 <h1 style="text-align: left">Education</h1>
 
 **2021 - Doctor of Philosophy** <br/>
-&emsp;&emsp;&emsp; Development and Validation of a Current-Based EEG System for Tangential Current Measurement <br/>
+&emsp;&emsp;&emsp; [Development and Validation of a Current-Based EEG System for Tangential Current Measurement](https://prism.ucalgary.ca/items/357b8b20-c92d-4813-94e8-ee527e713ad7) <br/>
 &emsp;&emsp;&emsp; University of Calgary
 <br/>
 <br/>
